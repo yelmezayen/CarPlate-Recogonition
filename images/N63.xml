@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>N63.jpeg</filename>
+	<path>C:\Users\Mostafa\Desktop\Project_Files\1_Labeling\images\N63.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>624</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>numberplate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>293</xmin>
+			<ymin>176</ymin>
+			<xmax>433</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+</annotation>

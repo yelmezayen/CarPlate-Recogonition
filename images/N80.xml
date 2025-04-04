@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>N80.jpeg</filename>
+	<path>C:\Users\Mostafa\Desktop\Project_Files\1_Labeling\images\N80.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>336</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>numberplate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>116</ymin>
+			<xmax>377</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

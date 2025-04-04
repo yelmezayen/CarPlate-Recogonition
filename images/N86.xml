@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>N86.jpeg</filename>
+	<path>C:\Users\Mostafa\Desktop\Project_Files\1_Labeling\images\N86.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>555</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>numberplate</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>441</xmin>
+			<ymin>262</ymin>
+			<xmax>640</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>
